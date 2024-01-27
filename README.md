@@ -1,5 +1,8 @@
 # quizzler
 
+![image](https://github.com/nayeemx11/Quizzler/assets/63298176/706e077c-af32-4e21-9eb4-0a5380fbb2fc)
+
+
 echo "# Quizzler" >> README.md
 git init
 git add -A
